@@ -1,0 +1,4 @@
+daemon
+======
+
+go daemon func
